@@ -1,0 +1,12 @@
+https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/linux-4.0.1.tar.gz linux-4.0.1.tar.gz linux-4.0.1 302775447c94392c8625cec1e685d57f &
+https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/linux-4.0.2.tar.gz linux-4.0.2.tar.gz linux-4.0.2 932d2b33dcb5541afd60315a76007197 &
+https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/linux-4.0.3.tar.gz linux-4.0.3.tar.gz linux-4.0.3 89b44ca07b2a17233b1dc202f1517bf5 &
+https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/linux-4.0.4.tar.gz linux-4.0.4.tar.gz linux-4.0.4 943239ad61ade5f9d02e0a6354a23107 &
+https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/linux-4.0.5.tar.gz linux-4.0.5.tar.gz linux-4.0.5 edd878e661ffb873837c8781ac665674 &
+https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/linux-4.0.6.tar.gz linux-4.0.6.tar.gz linux-4.0.6 e915fd50c0998a747a4e6626f7e6ac96 &
+https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/linux-4.0.7.tar.gz linux-4.0.7.tar.gz linux-4.0.7 75173fd02fd38421e9153ef63bf0686e &
+https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/linux-4.0.8.tar.gz linux-4.0.8.tar.gz linux-4.0.8 c558d55e88019eb3bc21c78647c7abb9 &
+https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/linux-4.0.9.tar.gz linux-4.0.9.tar.gz linux-4.0.9 65baf33c61c11b92da0308ea4a06dc53 &
+https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/linux-4.1.10.tar.gz linux-4.1.10.tar.gz linux-4.1.10 5d61c4f6423000989736330e305ecf4e &
+https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/linux-4.1.11.tar.gz linux-4.1.11.tar.gz linux-4.1.11 98d96457d44faa8476fced30330ed0b9 &
+https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/linux-4.1.12.tar.gz linux-4.1.12.tar.gz linux-4.1.12 549a9688a9b99998477a43e9024182dc &
