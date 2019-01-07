@@ -1,0 +1,2 @@
+https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/linux-4.0.6.tar.gz linux-4.0.6.tar.gz linux-4.0.6 e915fd50c0998a747a4e6626f7e6ac96 &
+https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/linux-4.0.7.tar.gz linux-4.0.7.tar.gz linux-4.0.7 75173fd02fd38421e9153ef63bf0686e &
