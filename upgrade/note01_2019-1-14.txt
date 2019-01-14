@@ -1,0 +1,2 @@
+1、升级music player
+2、删除tc_port及log
