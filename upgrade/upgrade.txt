@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/lw3585/test_music_player/master/upgrade/upgrade.tar af67800b1f6b9c922d602a8dafd9df88 lb_8_ch_player_v1.03
+https://raw.githubusercontent.com/lw3585/test_music_player/master/upgrade/upgrade.tar 9c2ceb452e30ca959bab875a029d8e78 lb_8_ch_player_v1.04
 
 
 
